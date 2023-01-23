@@ -27,7 +27,7 @@ body {
     grid-template-columns: 100%;
     grid-template-rows: 12vh 10vh 10vh 60vh 8vh;
     max-width: 100%;
-    overflow-x: hidden;
+    overflow: hidden;
     background-color: #CF4DCE;
 }
 
